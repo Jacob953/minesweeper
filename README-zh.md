@@ -1,7 +1,12 @@
 [English](/README.md) | 简体中文
 
 # Minesweeper
-用 Golang 实现扫雷
+> 用 Golang 实现扫雷
+
+- [Minesweeper](#minesweeper)
+  - [介绍](#介绍)
+  - [开始](#开始)
+  - [执照](#执照)
 
 ## 介绍
 
@@ -29,8 +34,8 @@
 
 ## 开始
 
-1. 将此仓库克隆到本地，并进入文件夹。
-2. 运行命令`go run cmd/minesweeper.go`，然后你会看到指导提示。
+1. 将此仓库克隆到本地，并确保 Golang 环境已经存在。
+2. 进入文件夹，运行命令`go run cmd/minesweeper.go`，然后你会看到指导提示。
 3. 玩得愉快～
 
 ## 执照

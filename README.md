@@ -35,8 +35,8 @@ Brief description of code structure.
 
 ## Start
 
-1. Clone this repo to your local and enter the folder.
-2. Run command `go run cmd/minesweeper.go`, then you will see tips for guide.
+1. Clone this repo to your local, and make sure Golang env is existed.
+2. Enter the folder, and run command `go run cmd/minesweeper.go`, then you will see tips for guide.
 3. Enjoy yourself with Minesweeper implemented by Golang.
 
 ## License
