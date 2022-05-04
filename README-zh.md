@@ -5,6 +5,7 @@
 
 - [Minesweeper](#minesweeper)
   - [介绍](#介绍)
+    - [截图](#截图)
   - [开始](#开始)
   - [执照](#执照)
 
@@ -29,6 +30,13 @@
 └── pkg
     └── game.go
 ```
+
+### 截图
+
+<div>
+  <img src="WIN.png" alt="WIN!" height="100px"\>
+  <img src="OVER.png" alt="GAME OVER!" height="100px"\>
+<div>
 
 <p align="center"><b>如果对你有用，欢迎 star 这个仓库！</b></p>
 

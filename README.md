@@ -6,6 +6,7 @@ English | [简体中文](/README-zh.md)
 
 - [Minesweeper](#minesweeper)
   - [Introduce](#introduce)
+    - [Screenshot](#screenshot)
   - [Start](#start)
   - [License](#license)
 
@@ -30,6 +31,13 @@ Brief description of code structure.
 └── pkg
     └── game.go
 ```
+
+### Screenshot
+
+<div>
+  <img src="WIN.png" alt="WIN!" height="100px"\>
+  <img src="OVER.png" alt="GAME OVER!" height="100px"\>
+<div>
 
 <p align="center"><b>Welcome to star this repo if it is useful to you!</b></p>
 
