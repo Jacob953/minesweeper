@@ -33,10 +33,10 @@
 
 ### 截图
 
-<div>
-  <img src="WIN.png" alt="WIN!" height="100px"\>
-  <img src="OVER.png" alt="GAME OVER!" height="100px"\>
-<div>
+<div align="center">
+  <img src="WIN.png" alt="WIN!" height="140px"\>
+  <img src="OVER.png" alt="GAME OVER!" height="140px"\>
+</div>
 
 <p align="center"><b>如果对你有用，欢迎 star 这个仓库！</b></p>
 
