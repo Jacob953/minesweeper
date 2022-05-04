@@ -34,9 +34,9 @@ Brief description of code structure.
 
 ### Screenshot
 
-<div>
-  <img src="WIN.png" alt="WIN!" height="100px"\>
-  <img src="OVER.png" alt="GAME OVER!" height="100px"\>
+<div align="center">
+  <img src="WIN.png" alt="WIN!" height="140px"\>
+  <img src="OVER.png" alt="GAME OVER!" height="140px"\>
 <div>
 
 <p align="center"><b>Welcome to star this repo if it is useful to you!</b></p>
